@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -32,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
