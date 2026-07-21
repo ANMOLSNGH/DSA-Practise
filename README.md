@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0282-expression-add-operators) |
+| [0343-integer-break](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0377-combination-sum-iv) |
