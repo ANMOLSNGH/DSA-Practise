@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Backtracking
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Tree
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 ## Stack
 |  |
