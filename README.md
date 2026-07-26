@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0282-expression-add-operators) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
+| [0583-delete-operation-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Backtracking
 |  |
