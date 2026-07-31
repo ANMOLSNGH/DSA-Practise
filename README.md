@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
+| [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0518-coin-change-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0224-basic-calculator) |
+| [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
 ## Binary Tree
 |  |
@@ -245,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
