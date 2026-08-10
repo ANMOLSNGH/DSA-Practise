@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0260-single-number-iii) |
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0397-integer-replacement) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
