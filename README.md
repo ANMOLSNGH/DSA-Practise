@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0397-integer-replacement) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
