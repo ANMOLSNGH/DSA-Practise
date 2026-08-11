@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [0553-optimal-division](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0688-knight-probability-in-chessboard) |
