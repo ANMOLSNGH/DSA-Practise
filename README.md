@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0816-ambiguous-coordinates](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0816-ambiguous-coordinates) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0740-delete-and-earn) |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0740-delete-and-earn](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -385,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
