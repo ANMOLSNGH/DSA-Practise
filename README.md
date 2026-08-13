@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1765-map-of-highest-peak) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0816-ambiguous-coordinates](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0816-ambiguous-coordinates) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Divide and Conquer
 |  |
 | ------- |
