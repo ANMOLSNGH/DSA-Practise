@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
+| [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1765-map-of-highest-peak](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1765-map-of-highest-peak) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1765-map-of-highest-peak) |
 ## Stack
