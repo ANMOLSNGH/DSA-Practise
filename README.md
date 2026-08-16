@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1765-map-of-highest-peak) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
 ## Recursion
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -452,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
