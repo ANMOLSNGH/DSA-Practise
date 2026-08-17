@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1563-stone-game-v) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
 ## Recursion
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -476,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
