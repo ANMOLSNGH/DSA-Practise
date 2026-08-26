@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0816-ambiguous-coordinates](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0816-ambiguous-coordinates) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1987-number-of-unique-good-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [1987-number-of-unique-good-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
