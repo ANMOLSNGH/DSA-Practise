@@ -1,34 +1,48 @@
 class Solution {
 public:
-    int n;
-    bool solve(string &s,string &curr,vector<int>&freq,string &target,int indx,bool greater) {
-         if(indx==n) {
-            if(greater==true) {
-                s = curr;
-                return true;
-            }
-            return false;
-         }
-
-         for(char ch ='a';ch <= 'z' ; ch++) {
-            if(freq[ch-'a']==0) continue;
-            if(greater==false&&ch<target[indx]) continue;
-            curr.push_back(ch);
-            freq[ch-'a']--;
-            bool isGreater = greater || ch>target[indx];
-            if(solve(s,curr,freq,target,indx+1,isGreater)) return true;
-            curr.pop_back();
-            freq[ch-'a']++;
-         }
-         return false;
-    }
     string lexGreaterPermutation(string s, string target) {
-        n = s.size();
-        string curr = "";
+        int n = s.size();
+        int m = target.size();
+        vector<int> freq(26, 0);
+        
+        for (char ch : s) {
+            freq[ch - 'a']++;
+        }
 
-        vector<int>freq(26,0);
-        for(auto ch : s) freq[ch-'a']++;
-        if(solve(s,curr,freq,target,0,false)) return s;
+        int max_prefix = 0;
+        while (max_prefix < n && max_prefix < m && freq[target[max_prefix] - 'a'] > 0) {
+            freq[target[max_prefix] - 'a']--;
+            max_prefix++;
+        }
+
+        
+        for (int i = max_prefix; i >= 0; i--) {
+            if (i < m) {
+                
+                for (char ch = target[i] + 1; ch <= 'z'; ch++) {
+                    if (freq[ch - 'a'] > 0) {
+                        
+                        string curr = target.substr(0, i);
+                        curr += ch;
+                        freq[ch - 'a']--;
+
+                        
+                        for (char fill = 'a'; fill <= 'z'; fill++) {
+                            while (freq[fill - 'a'] > 0) {
+                                curr += fill;
+                                freq[fill - 'a']--;
+                            }
+                        }
+                        return curr;
+                    }
+                }
+            }
+           
+            if (i > 0) {
+                freq[target[i - 1] - 'a']++;
+            }
+        }
+
         return "";
     }
 };
