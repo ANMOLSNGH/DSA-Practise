@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0816-ambiguous-coordinates](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0816-ambiguous-coordinates) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1987-number-of-unique-good-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1765-map-of-highest-peak](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1765-map-of-highest-peak) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -332,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
+| [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
