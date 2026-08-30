@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
