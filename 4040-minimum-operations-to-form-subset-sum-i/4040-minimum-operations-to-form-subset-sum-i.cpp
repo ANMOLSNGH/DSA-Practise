@@ -5,7 +5,7 @@ public:
         int n = nums.size();
         vector<vector<int>>dp(n+1,vector<int>(sum+1,INF));
         
-        dp[0][0] = 0; // Base case: 0 sum with 0 elements takes 0 ops
+        dp[0][0] = 0; 
 
         for(int i = 1;i<=n;i++) {
             vector<pair<int,int>>states;
@@ -20,7 +20,7 @@ public:
                 cost++;
             }
             
-            curr = nums[i-1] * 2; // Fix: Reset to original number before multiplying
+            curr = nums[i-1] * 2; 
             cost = 1;
             while (curr <= sum) {
                 states.push_back({curr, cost});
@@ -29,14 +29,14 @@ public:
             }
             
             for(int k = 0;k<=sum;k++) {
-                dp[i][k] = dp[i-1][k]; // Fix: Carry over state without using current element
+                dp[i][k] = dp[i-1][k]; 
                 
                 for(auto state : states) {
                    int val = state.first;
                    int op = state.second;
 
                    if(k>=val&&dp[i-1][k-val]!=INF) {
-                    dp[i][k] = min(dp[i][k],dp[i-1][k-val]+op); // Fix: Compare against dp[i][k]
+                    dp[i][k] = min(dp[i-1][k],dp[i-1][k-val]+op); 
                    }
                 }
             }
