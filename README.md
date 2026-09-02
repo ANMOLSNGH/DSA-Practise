@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
+| [1345-jump-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1563-stone-game-v) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
+| [1345-jump-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
+| [1345-jump-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1345-jump-game-iv) |
 | [1765-map-of-highest-peak](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1765-map-of-highest-peak) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3310-remove-methods-from-project) |
