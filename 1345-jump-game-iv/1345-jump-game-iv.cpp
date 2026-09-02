@@ -1,7 +1,10 @@
 class Solution {
 public:
     typedef tuple<int,int,int>t;
+    
     int minJumps(vector<int>& arr) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = arr.size();
         unordered_map<int,vector<int>>mpp;
         for(int i = 0;i<n;i++) {
