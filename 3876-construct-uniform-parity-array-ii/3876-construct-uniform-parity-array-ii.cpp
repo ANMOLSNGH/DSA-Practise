@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findjustsmaller(vector<int>&nums,int target) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = nums.size();
         int low = 0;
         int high = n-1;
