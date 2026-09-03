@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0204-count-primes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0740-delete-and-earn](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0654-maximum-binary-tree) |
 ## Game Theory
 |  |
@@ -568,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
