@@ -1,41 +1,36 @@
-#include <vector>
-#include <numeric>
-
-using namespace std;
-
 class Solution {
 public:
     typedef long long ll;
-    
     int countGoodRotations(vector<int>& nums) {
         int n = nums.size();
-        if (n == 0) return 0;
-        
-        int k = n / 2; // Fixed window size
-        ll total_sum = accumulate(nums.begin(), nums.end(), 0LL);
+        ll  total_sum = accumulate(nums.begin(),nums.end(),0ll);
+        int i = 0;
+        int j = n/2-1;
         ll sum = 0;
-        int cnt = 0;
-
-        // 1. Calculate the sum of the first window [0 ... k-1]
-        for (int i = 0; i < k; i++) {
-            sum += nums[i];
+        ll cnt = 0;
+        if(n==2&&nums[0]!=nums[1]) return 1;
+        for(;i<=j;i++) sum += nums[i];
+        if(sum>(total_sum-sum)) cnt++;
+        i=0;
+        j++;
+        while(j<n) {
+            sum += nums[j];
+            sum -= nums[i];
+            if(sum>(total_sum-sum)) cnt++;
+            i++;
+            j++;
         }
-
-        // Check the first window
-        if (sum > total_sum - sum) cnt++;
-
-        // 2. Slide the window exactly n - 1 times
-        for (int i = 1; i < n; i++) {
-            // Remove the element that falls out of the window's left side
-            sum -= nums[i - 1]; 
-            
-            // Add the new element entering the right side, using % n to wrap around
-            sum += nums[(i + k - 1) % n]; 
-            
-            // Check the new window
-            if (sum > total_sum - sum) cnt++;
+        sum -= nums[i++];
+        j = i;
+        sum += nums[0];
+        i = 0;
+        if(sum>total_sum-sum) cnt++;
+        i++;
+        while(i<n/2-1) {
+            sum += nums[i++];
+            sum -= nums[j++];
+            if(sum>total_sum-sum) cnt++;
         }
-
-        return cnt;
+         return cnt;
     }
 };
