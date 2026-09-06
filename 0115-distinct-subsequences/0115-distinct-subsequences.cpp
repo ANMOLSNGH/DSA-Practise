@@ -10,10 +10,11 @@ public:
         if (dp[i][j] != -1) return dp[i][j];
 
         if (s1[i] == s2[j]) {
-            return dp[i][j] = (unsigned int)solve(i + 1, j, s1, s2) + solve(i + 1, j + 1, s1, s2);
+            dp[i][j] = (unsigned int)solve(i + 1, j, s1, s2) + solve(i + 1, j + 1, s1, s2);
         } else {
-            return dp[i][j] = solve(i + 1, j, s1, s2);
+             dp[i][j] = solve(i + 1, j, s1, s2);
         }
+        return dp[i][j];
     }
     
     int numDistinct(string s, string t) {
@@ -23,3 +24,6 @@ public:
         return solve(0, 0, s, t);
     }
 };
+
+ 
+
