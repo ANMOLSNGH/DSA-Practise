@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0816-ambiguous-coordinates](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0816-ambiguous-coordinates) |
+| [0940-distinct-subsequences-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
