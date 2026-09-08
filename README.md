@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0334-increasing-triplet-subsequence) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Hash Table
 |  |
