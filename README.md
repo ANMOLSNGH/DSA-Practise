@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0547-number-of-provinces) |
 | [0752-open-the-lock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0752-open-the-lock) |
@@ -621,4 +624,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
