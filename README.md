@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
@@ -641,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
