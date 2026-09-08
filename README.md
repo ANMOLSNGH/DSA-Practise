@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0318-maximum-product-of-word-lengths) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Hash Table
 |  |
@@ -619,10 +622,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Knapsack Problem
 |  |
@@ -632,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0322-coin-change) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
