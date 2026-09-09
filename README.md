@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0518-coin-change-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0324-wiggle-sort-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0516-longest-palindromic-subsequence) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0583-delete-operation-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
