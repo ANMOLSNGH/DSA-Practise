@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1510-stone-game-iv) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 ## Game Theory
 |  |
 | ------- |
@@ -658,4 +663,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
