@@ -708,4 +708,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
