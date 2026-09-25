@@ -712,5 +712,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0176-second-highest-salary) |
+| [1148-article-views-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
