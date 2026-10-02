@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0823-binary-trees-with-factors) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
