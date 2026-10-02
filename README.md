@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0119-pascals-triangle-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
