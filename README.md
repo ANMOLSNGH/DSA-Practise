@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Math
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Simulation
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## String
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
