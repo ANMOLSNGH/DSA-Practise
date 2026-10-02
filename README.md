@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Dynamic Programming
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
