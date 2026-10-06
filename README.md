@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2029-stone-game-ix) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0792-number-of-matching-subsequences) |
 | [0816-ambiguous-coordinates](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0816-ambiguous-coordinates) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
