@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0032-longest-valid-parentheses) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0097-interleaving-string) |
@@ -823,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0204-count-primes) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
