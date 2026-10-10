@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0412-fizz-buzz) |
 | [0553-optimal-division](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0650-2-keys-keyboard) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0318-maximum-product-of-word-lengths) |
+| [0412-fizz-buzz](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0412-fizz-buzz) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0516-longest-palindromic-subsequence) |
