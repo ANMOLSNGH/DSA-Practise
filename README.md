@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0596-classes-with-at-least-5-students) |
+| [1075-project-employees-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1251-average-selling-price) |
