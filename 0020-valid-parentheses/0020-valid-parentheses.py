@@ -1,11 +1,10 @@
-
 class Solution(object):
     def isValid(self, s):
-        ans = ""
+        ans = []
 
         for indx, paran in enumerate(s):
             if paran == '(' or paran == '{' or paran == '[':
-                ans += paran
+                ans.append(paran)
             else:
                 if paran == ')' and (len(ans) == 0 or ans[-1] != '('):
                     return False
@@ -14,6 +13,6 @@ class Solution(object):
                 elif paran == ']' and (len(ans) == 0 or ans[-1] != '['):
                     return False
                 else:
-                    ans = ans[:-1]
+                    ans.pop()
 
         return len(ans) == 0
