@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0119-pascals-triangle-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0242-valid-anagram) |
