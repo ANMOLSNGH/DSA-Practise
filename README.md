@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0137-single-number-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
