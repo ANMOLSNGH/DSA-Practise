@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def solve(self,open,close,k,s,li):
         if open>k//2:
             return
@@ -16,11 +16,11 @@ class Solution(object):
         self.solve(open,close+1,k,s,li)
         s = s[:-1]
 
-    def generateParenthesis(self, n):
+    def generateParenthesis(self, n: int) -> list[str]:
+
         s = ""
         li = []
         self.solve(0,0,2*n,s,li)
 
         return li
-        
         
