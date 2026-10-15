@@ -1,57 +1,43 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-
         int n = nums.size();
+        int cand1 = 0;
+        int cand2 = 0;
 
-        int candi1 = 0;
-        int candi2 = 0;
+        int cnt1 = 0;
+        int cnt2 = 0;
+        for(int i = 0;i<n;i++) {
+             if(nums[i]==cand1) {
+                cnt1++;
+             }
+             else if(nums[i]==cand2) {
+                cnt2++;
+             }
 
-        int count_1 = 0;
-        int count_2 = 0;
-
-        // Phase 1: Find potential candidates
-        for(int i = 0; i < n; i++) {
-
-            if(nums[i] == candi1) {
-                count_1++;
-            }
-            else if(nums[i] == candi2) {
-                count_2++;
-            }
-            else if(count_1 == 0) {
-                candi1 = nums[i];
-                count_1 = 1;
-            }
-            else if(count_2 == 0) {
-                candi2 = nums[i];
-                count_2 = 1;
-            }
-            else {
-                count_1--;
-                count_2--;
-            }
+             else if(cnt1==0) {
+                cand1 = nums[i];
+                cnt1 = 1;
+             }
+             else if(cnt2==0) {
+                cand2 = nums[i];
+                cnt2 = 1;
+             }
+             else {
+                cnt1--;
+                cnt2--;
+             }
         }
-
-        // Phase 2: Verify actual frequencies
-        count_1 = 0;
-        count_2 = 0;
-
-        for(int x : nums) {
-            if(x == candi1)
-                count_1++;
-            else if(x == candi2)
-                count_2++;
+        
+        cnt1 = 0;
+        cnt2 = 0;
+        for(int i = 0;i<n;i++) {
+            if(nums[i]==cand1) cnt1++;
+            else if(nums[i]==cand2) cnt2++;
         }
-
-        vector<int> ans;
-
-        if(count_1 > n/3)
-            ans.push_back(candi1);
-
-        if(count_2 > n/3)
-            ans.push_back(candi2);
-
+        vector<int>ans;
+        if(cnt1>n/3) ans.push_back(cand1);
+        if(cnt2>n/3) ans.push_back(cand2);
         return ans;
     }
 };
