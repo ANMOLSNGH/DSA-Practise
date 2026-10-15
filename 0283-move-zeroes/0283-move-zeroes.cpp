@@ -3,19 +3,12 @@ public:
     void moveZeroes(vector<int>& nums) {
           ios::sync_with_stdio(false);
           cin.tie(NULL);
-          int cnt_0 = 0;
-          for(auto num : nums) {
-            if(num==0) cnt_0++;
-          }
-          int i = 0;
-          for(auto num : nums) {
-            if(num!=0) {
-                nums[i++] = num;
+          int left = 0;
+          for(int right = 0;right<nums.size();right++) {
+            if(nums[right]!=0) {
+                swap(nums[right],nums[left]);
+                left++;
             }
-          }
-          while(cnt_0!=0) {
-            nums[i++] = 0;
-            cnt_0--;
           }
     }
 };
