@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0213-house-robber-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0241-different-ways-to-add-parentheses) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0763-partition-labels](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0763-partition-labels) |
