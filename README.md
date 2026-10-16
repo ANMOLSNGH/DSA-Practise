@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0119-pascals-triangle-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
