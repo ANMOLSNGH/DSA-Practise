@@ -1,61 +1,37 @@
 class Solution {
 public:
-
-    int getDigitSum(int num) {
+    int getSum(int num1) {
         int sum = 0;
-
-        while(num > 0) {
-            sum += (num % 10);
-            num /= 10;
+        while(num1) {
+            sum += num1%10;
+            num1 /= 10;
         }
-
         return sum;
     }
-
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
+        vector<pair<int,int>>afterSorted;
+        for(int i = 0;i<n;i++) {
+            afterSorted.push_back({nums[i],i});
+        }
 
-        vector<int> afterSorted(nums);
-
-        auto lambda = [&](int num1, int num2) {
-            int num1DigitSum = getDigitSum(num1); //log10(num)
-            int num2DigitSum = getDigitSum(num2);
-
-            if(num1DigitSum != num2DigitSum) {
-                return num1DigitSum < num2DigitSum;
-            }
-
-            return num1 < num2;
+        auto srt = [&](pair<int,int>&n1,pair<int,int>&n2) {
+             int getSum1 = getSum(n1.first);
+             int getSum2 = getSum(n2.first);
+             if(getSum1!=getSum2) return getSum2>getSum1;
+             return n1.first<n2.first;
         };
+        sort(afterSorted.begin(),afterSorted.end(),srt);
+        int swaps = 0;
 
-        sort(begin(afterSorted), end(afterSorted), lambda); //nlogn * N
-
-        unordered_map<int, int> valToIdx;
-        for(int i = 0; i < n; i++) { //O(n)
-            valToIdx[nums[i]] = i;
+        for(int i = 0;i<n;i++) {
+            if(afterSorted[i].second==i) continue;
+            else {
+                swap(afterSorted[i], afterSorted[afterSorted[i].second]);
+                swaps++;
+                i--; 
+            }
         }
-
-        
-        int swapCount = 0;
-        for(int i = 0; i < n; i++) { //O(n)
-            int expectedVal = afterSorted[i];
-            int currVal     = nums[i];
-
-            if(expectedVal == currVal) continue;
-
-            int idx = valToIdx[expectedVal];
-
-            nums[i] = expectedVal;
-            nums[idx] = currVal;
-
-            valToIdx[expectedVal] = i;
-            valToIdx[currVal] = idx;
-
-            swapCount++;
-        }
-
-        return swapCount;
-
-
+        return swaps;
     }
 };
