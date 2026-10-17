@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2272-substring-with-largest-variance) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
