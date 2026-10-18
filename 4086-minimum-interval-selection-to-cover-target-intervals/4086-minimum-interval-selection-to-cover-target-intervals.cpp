@@ -38,7 +38,7 @@ public:
                     end = max(end,a[indx][1]);
                     indx++;
                 }
-                if(end<=covered||end<l) return -1;
+                if(end<=covered) return -1;
                 covered = end;
                 cnt++;
             }
