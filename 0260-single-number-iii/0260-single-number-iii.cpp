@@ -3,11 +3,10 @@ public:
     vector<int> singleNumber(vector<int>& nums) {
         int n = nums.size();
         unsigned int xori = 0;
-        for(auto num : nums) {
+        for(auto num:nums) {
             xori ^= num;
         }
-        unsigned int right_most1 = (xori)&(-xori);
-
+       unsigned int right_most1 = xori&(-xori);
         int num1 = 0;
         int num2 = 0;
         for(auto num : nums) {
