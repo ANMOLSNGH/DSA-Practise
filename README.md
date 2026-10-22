@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
