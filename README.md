@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1014-best-sightseeing-pair](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1014-best-sightseeing-pair) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0940-distinct-subsequences-ii) |
+| [1014-best-sightseeing-pair](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1014-best-sightseeing-pair) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
