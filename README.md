@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1254-number-of-closed-islands) |
