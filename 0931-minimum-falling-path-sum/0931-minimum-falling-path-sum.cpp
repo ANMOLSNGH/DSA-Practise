@@ -2,25 +2,33 @@ class Solution {
 public:
     using v = vector<int>;
     using vv = vector<v>;
+
+
+    // we can reduce space cmplexity as well easily as we are dependent only 
+//  on prev row we can just loop one more time to see it ........
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        vv dp(n,v(n,INT_MAX));
-
         // base case
-        for(int i = 0;i<n;i++) dp[0][i] = matrix[0][i];
+        v prev = matrix[0];
 
         for(int i = 1;i<n;i++) {
+            v curr(n,0);
             for(int j = 0;j<n;j++) {
-                dp[i][j] =  min(dp[i][j],dp[i-1][j]);
-                if(j!=0) dp[i][j] = min(dp[i][j],dp[i-1][j-1]);
-                if(j!=n-1) dp[i][j] = min(dp[i][j],dp[i-1][j+1]);
+                int min_value = prev[j];
+                
+                if(j>0)
+                min_value = min(min_value,prev[j-1]);
 
-                dp[i][j] += matrix[i][j];
+                if(j<n-1)
+                min_value = min(min_value,prev[j+1]);
+
+                curr[j] = min_value + matrix[i][j];
             }
+            prev = curr;
         }
         int ans = INT_MAX;
         for(int i = 0;i<n;i++) {
-            ans = min(ans,dp[n-1][i]);
+            ans = min(ans,prev[i]);
         }
         return ans;
     }
