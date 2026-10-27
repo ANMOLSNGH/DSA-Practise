@@ -1,30 +1,36 @@
 class Solution {
 public:
-    int maxProfit(int k, std::vector<int>& prices) {
-        int n = prices.size();
-        if (n == 0 || k == 0) return 0;
+     int dp[1001][2][101];
+     int n;
 
-        if (k >= n / 2) {
-            int max_profit = 0;
-            for (int i = 1; i < n; ++i) {
-                if (prices[i] > prices[i - 1]) {
-                    max_profit += prices[i] - prices[i - 1];
-                }
-            }
-            return max_profit;
+     using v = vector<int>;
+     using vv = vector<v>;
+     using vvv = vector<vv>;
+
+    int solve(vector<int>&prices,int indx,int cnt,int state) {
+        if(indx>=n) return 0;
+        if(cnt==0) return 0;
+
+        if(dp[indx][state][cnt]!=-1) return dp[indx][state][cnt];
+        int profit = 0;
+        // skip 
+        if(state==0) {
+            int take = -prices[indx] + solve(prices,indx+1,cnt,1);
+            int skip = solve(prices,indx+1,cnt,0);
+            profit = max(take,skip);
         }
 
-        std::vector<int> buy(k + 1, INT_MIN);
-        std::vector<int> sell(k + 1, 0);
-
-        for (int price : prices) {
-            for (int i = 1; i <= k; ++i) {
-                buy[i]  = std::max(buy[i], sell[i - 1] - price);
-                
-                sell[i] = std::max(sell[i], buy[i] + price);
-            }
+        else if(state==1) {
+            int take = prices[indx] + solve(prices,indx+1,cnt-1,0);
+            int skip = solve(prices,indx+1,cnt,1);
+            profit =  max(take,skip);
         }
 
-        return sell[k];
+        return dp[indx][state][cnt] = profit;
+    }
+    int maxProfit(int k, vector<int>& prices) {
+        n = prices.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(prices,0,k,0);
     }
 };
