@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0224-basic-calculator) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0118-pascals-triangle) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
