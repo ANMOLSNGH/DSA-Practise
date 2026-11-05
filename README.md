@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0940-distinct-subsequences-ii) |
+| [0968-binary-tree-cameras](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0968-binary-tree-cameras) |
 | [1014-best-sightseeing-pair](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1014-best-sightseeing-pair) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0337-house-robber-iii) |
 | [0654-maximum-binary-tree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0968-binary-tree-cameras) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0802-find-eventual-safe-states) |
+| [0968-binary-tree-cameras](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1020-number-of-enclaves) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1202-smallest-string-with-swaps](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1202-smallest-string-with-swaps) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0337-house-robber-iii) |
 | [0654-maximum-binary-tree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0968-binary-tree-cameras) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
@@ -980,4 +984,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
