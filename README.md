@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
