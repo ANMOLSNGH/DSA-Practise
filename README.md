@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
 | [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2272-substring-with-largest-variance](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2272-substring-with-largest-variance) |
 | [2364-count-number-of-bad-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
 | [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
