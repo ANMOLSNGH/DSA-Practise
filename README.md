@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2364-count-number-of-bad-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2364-count-number-of-bad-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2364-count-number-of-bad-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0204-count-primes) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0973-k-closest-points-to-origin) |
 | [1642-furthest-building-you-can-reach](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1642-furthest-building-you-can-reach) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Hash Table
 |  |
 | ------- |
@@ -1033,8 +1038,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
