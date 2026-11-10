@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Backtracking
 |  |
