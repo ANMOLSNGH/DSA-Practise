@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0283-move-zeroes) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0229-majority-element-ii) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0493-reverse-pairs) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bracket Sequences
 |  |
@@ -928,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
