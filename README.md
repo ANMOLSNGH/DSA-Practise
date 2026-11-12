@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0630-course-schedule-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0630-course-schedule-iii) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0324-wiggle-sort-ii) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bracket Sequences
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0493-reverse-pairs) |
 ## Treap
@@ -1058,4 +1062,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
