@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bracket Sequences
