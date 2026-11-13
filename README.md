@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
