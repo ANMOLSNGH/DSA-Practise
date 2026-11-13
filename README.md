@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2364-count-number-of-bad-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2747-count-zero-request-servers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1642-furthest-building-you-can-reach) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
