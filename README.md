@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2845-count-of-interesting-subarrays](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2845-count-of-interesting-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
