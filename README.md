@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0464-can-i-win) |
 | [0553-optimal-division](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0650-2-keys-keyboard) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0494-target-sum) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0464-can-i-win) |
 ## Matrix
 |  |
 | ------- |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -836,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/1406-stone-game-iii) |
@@ -1097,4 +1102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
