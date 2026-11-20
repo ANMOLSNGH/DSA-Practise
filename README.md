@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3364-minimum-positive-sum-subarray) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2262-total-appeal-of-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2272-substring-with-largest-variance) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3665-twisted-mirror-path-count) |
