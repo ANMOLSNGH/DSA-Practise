@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2272-substring-with-largest-variance](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2272-substring-with-largest-variance) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
