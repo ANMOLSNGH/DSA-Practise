@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/ANMOLSNGH/DSA-Practise/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
